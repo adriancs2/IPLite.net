@@ -8,4 +8,4 @@ https://lite.ip2location.com/database/db11-ip-country-region-city-latitude-longi
 
 Convert IP address to location
 
-1[](https://raw.githubusercontent.com/adriancs2/IPLite.net/master/wiki/01.png)
+![](https://raw.githubusercontent.com/adriancs2/IPLite.net/master/wiki/01.png)
